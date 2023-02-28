@@ -1,4 +1,4 @@
-<h1 align="center">NitroxV1: Yet The Best Generator! Made with ❤ By Snipyxxa</h1>
+<h1 align="center">NitroxV1: The Best Generator! Made with ❤ By Snipyxxa</h1>
 
 ## Main features
 
