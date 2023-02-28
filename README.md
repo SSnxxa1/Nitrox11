@@ -16,8 +16,8 @@
 * [A Discord token](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token) (optional)
 
 ## Setup
-Clone this repository to your computer or download from the release page.
-Edit the config variables in the config.yml file as you like.
-Paste fresh http(s)/socks proxies into required/http-proxies.txt/required/socks-proxies.txt.
-Open up a command prompt in the downloaded folder and type npm install to install the requirements (not required for the compiled version).
-Start the generator by typing node app.js, or opening up the executable you downloaded !
+* Clone this repository to your computer or download from the release page.
+* Edit the config variables in the config.yml file as you like.
+* Paste fresh http(s)/socks proxies into required/http-proxies.txt/required/socks-proxies.txt.
+* Open up a command prompt in the downloaded folder and type npm install to install the requirements (not required for * * the compiled version).
+* Start the generator by typing node app.js, or opening up the executable you downloaded !
